@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/blogger/static/css/main.afd7172b.chunk.css",
+    "main.js": "/blogger/static/js/main.18450cfe.chunk.js",
+    "main.js.map": "/blogger/static/js/main.18450cfe.chunk.js.map",
+    "runtime-main.js": "/blogger/static/js/runtime-main.7bc0ccb4.js",
+    "runtime-main.js.map": "/blogger/static/js/runtime-main.7bc0ccb4.js.map",
+    "static/js/2.cbbe9d7d.chunk.js": "/blogger/static/js/2.cbbe9d7d.chunk.js",
+    "static/js/2.cbbe9d7d.chunk.js.map": "/blogger/static/js/2.cbbe9d7d.chunk.js.map",
+    "static/css/3.c296553d.chunk.css": "/blogger/static/css/3.c296553d.chunk.css",
+    "static/js/3.a5369608.chunk.js": "/blogger/static/js/3.a5369608.chunk.js",
+    "static/js/3.a5369608.chunk.js.map": "/blogger/static/js/3.a5369608.chunk.js.map",
+    "static/js/4.f9e20562.chunk.js": "/blogger/static/js/4.f9e20562.chunk.js",
+    "static/js/4.f9e20562.chunk.js.map": "/blogger/static/js/4.f9e20562.chunk.js.map",
+    "index.html": "/blogger/index.html",
+    "static/css/3.c296553d.chunk.css.map": "/blogger/static/css/3.c296553d.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/blogger/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.cbbe9d7d.chunk.js.LICENSE.txt": "/blogger/static/js/2.cbbe9d7d.chunk.js.LICENSE.txt",
+    "static/media/1.1838c9c5.svg": "/blogger/static/media/1.1838c9c5.svg",
+    "static/media/1.bfebc911.svg": "/blogger/static/media/1.bfebc911.svg",
+    "static/media/2.48030495.svg": "/blogger/static/media/2.48030495.svg",
+    "static/media/2.c374d3e2.svg": "/blogger/static/media/2.c374d3e2.svg",
+    "static/media/3.2183d38c.svg": "/blogger/static/media/3.2183d38c.svg",
+    "static/media/3.e76404f6.svg": "/blogger/static/media/3.e76404f6.svg",
+    "static/media/first-page.css": "/blogger/static/media/corner.5d497f05.svg",
+    "static/media/modal.css": "/blogger/static/media/gender-male.c06aaf4f.svg",
+    "static/media/logo.6ce24c58.svg": "/blogger/static/media/logo.6ce24c58.svg",
+    "static/media/logo.8173c89b.svg": "/blogger/static/media/logo.8173c89b.svg",
+    "static/media/photo.e4f3ca95.png": "/blogger/static/media/photo.e4f3ca95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc0ccb4.js",
+    "static/js/2.cbbe9d7d.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.18450cfe.chunk.js"
+  ]
+}
